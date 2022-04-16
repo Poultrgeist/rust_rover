@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Structures.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+structure_type = 2
+cost = 200
+needs_power = true
+valid_types = [ 0 ]
